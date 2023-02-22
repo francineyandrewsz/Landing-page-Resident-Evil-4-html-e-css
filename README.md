@@ -2,4 +2,4 @@
 Nesse repositório você vai encontrar códigos referente a landing page usando html e css com a finalidade de estudos.
 ##
 #Preview
-![Pagina-RE4](img/Pagina-RE4.png)
+![Pagina-RE4](Pagina-RE4.png)
